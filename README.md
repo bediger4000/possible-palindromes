@@ -36,7 +36,7 @@ This is surprisingly easy, *if* you have the insight about character counts.
 The programming is easy,
 but the interviewer has to decide if the candidate does the right thing
 by counting both even and odd character counts,
-which probably requires an if-the-else,
+which probably requires an if-then-else,
 or if the candidate does the optimization/simplification.
 
 If you're looking for a Enterprise app Java programmer,
